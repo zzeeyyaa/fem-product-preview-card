@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](#)
-- Live Site URL: [Add live site URL here](#)
+- Solution URL: [Add solution URL here](https://github.com/zzeeyyaa/fem-product-preview-card)
+- Live Site URL: [Add live site URL here](https://zzeeyyaa.github.io/fem-product-preview-card/)
 
 ## My process
 
